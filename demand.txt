@@ -1,2 +1,0 @@
-* person A ... 1
-* person B ... 3
